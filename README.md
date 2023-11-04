@@ -57,3 +57,6 @@ PostgreSQL için gerekli bağımlılıklar pom.xml dosyasına eklenir:
 </dependency>
 ```
 Ve veritabanı ayağı kaldırılır.
+
+## İletişim
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle enesbaskale@gmail.com adresi üzerinden iletişime geçmekten çekinmeyin.
